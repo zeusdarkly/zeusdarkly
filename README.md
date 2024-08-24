@@ -36,4 +36,4 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zeusdarkly&show_icons=true&theme=radical)
 
 ### İletişim ve Öneri:
-- 📧 [E-posta adresim](mailto:yazilim887@gmail.com)
+- 📧 Herhangi bir soru veya öneri için [E-posta Adresim](mailto:yazilim887@gmail.com) üzerinden iletişime geçebilirsiniz.
