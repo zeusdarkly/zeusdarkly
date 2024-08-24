@@ -7,7 +7,7 @@
 
 ### Gurur Duyduğum Projelerim:
 - [Zeus Haberleşme Sistemi](https://github.com/zeusdarkly/Zeus-Haberlesme-Sistemi) - Kendi sunucunuzu ve istemcinizi kullanarak dünyanın her yerinden herkesle sohbet edin.
-- [Hız Ölçer](https://github.com/zeusdarkly/speed-checker) - Form bilgilerinizi doğrulayan ve kullanıcıya başarı penceresi gösteren doğrulayıcı.
+- [Form Doğrulayıcı](https://github.com/zeusdarkly/speed-checker) - Form bilgilerinizi doğrulayan ve kullanıcıya başarı penceresi gösteren doğrulayıcı.
 - [Şifre Oluşturucu](https://github.com/zeusdarkly/Sifre-Olusturucu) - Güvenli ve rastgele şifreler üreten bir şifre oluşturucu uygulaması.
 
 ### Hakim Olduğum Konular:
