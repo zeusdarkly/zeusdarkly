@@ -11,7 +11,6 @@
 - [Şifre Oluşturucu](https://github.com/zeusdarkly/Sifre-Olusturucu) - Güvenli ve rastgele şifreler üreten bir şifre oluşturucu uygulaması.
 
 ### Hakim Olduğum Konular:
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 #### 🖥️ Programlama ve Script Dilleri:
 - **Python**: Veri analizi, otomasyon, sızma testleri ve güvenlik araçları geliştirme.
 - **Bash**: Sistem yönetimi, otomasyon scriptleri ve günlük işlemler için komut dosyaları yazma.
