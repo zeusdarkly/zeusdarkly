@@ -31,8 +31,5 @@
 - **Docker**: Konteynerleştirme ve uygulama dağıtımı.
 - **ngrok**: Yerel sunuculara güvenli uzaktan erişim sağlama.
 
-### GitHub İstatistiklerim:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zeusdarkly&show_icons=true&theme=radical)
-
 ### İletişim ve Öneri:
 - 📧 Herhangi bir soru veya öneri için [E-posta Adresim](mailto:yazilim887@gmail.com) üzerinden iletişime geçebilirsiniz.
