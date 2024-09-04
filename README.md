@@ -14,7 +14,7 @@
 #### 🖥️ Programlama ve Script Dilleri:
 - **Python**: Veri analizi, otomasyon, sızma testleri ve güvenlik araçları geliştirme.
 - **Bash**: Sistem yönetimi, otomasyon scriptleri ve günlük işlemler için komut dosyaları yazma.
-- **JavaScript**: Web uygulamaları ve araçlar geliştirme.
+- **JavaScript**: Siber güvenlik uygulamaları için araçlar geliştirme ve kullanma.
 
 #### 🔒 Siber Güvenlik:
 - **Sızma Testleri (Penetration Testing)**: Sistemlerin ve ağların güvenliğini değerlendirmek için sızma testleri yapma.
