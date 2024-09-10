@@ -6,7 +6,7 @@
 - 📊 **Borsa analizi** üzerine çalışıyor ve **teknik analiz** yöntemleri kullanarak stratejiler geliştiriyorum.
 
 ### Gurur Duyduğum Projelerim:
-- [Zeus Haberleşme Sistemi](https://github.com/zeusdarkly/Zeus-Haberlesme-Sistemi) - Kendi sunucunuzu ve istemcinizi kullanarak dünyanın her yerinden herkesle sohbet edin.
+- [ZConnect](https://github.com/zeusdarkly/Zeus-Haberlesme-Sistemi) - Kendi sunucunuzu ve istemcinizi kullanarak dünyanın her yerinden herkesle sohbet edin.
 - [Web Cookie Logger](https://github.com/zeusdarkly/Web-Cookie-Logger) - URL'ye tıklayan kullanıcının tarayıcı çerezlerini yakalayan bir araç.
 - [Şifre Oluşturucu](https://github.com/zeusdarkly/Sifre-Olusturucu) - Güvenli ve rastgele şifreler üreten bir şifre oluşturucu uygulaması.
 
