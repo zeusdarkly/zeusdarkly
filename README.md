@@ -1,4 +1,4 @@
-# Merhaba, Ben ZeusDarkly! 👋
+# Merhaba, Ben zeusdarkly! 👋
 
 - 💻 Ben bir **siber güvenlik geliştiricisiyim** ve **etik hackerlık** ile **güvenlik testleri** üzerine çalışıyorum.
 - 🔐 Uzmanlık alanım **sızma testleri**, **zafiyet değerlendirmesi** ve **olay müdahalesi**.
